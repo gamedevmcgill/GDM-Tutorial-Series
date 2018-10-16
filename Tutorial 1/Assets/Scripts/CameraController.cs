@@ -2,37 +2,40 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[ExecuteInEditMode]
+[RequireComponent(typeof(Camera))]
 public class CameraController : MonoBehaviour {
 
-    public float pitch;
-    public float yaw;
+    public GameObject Target;
 
-    private Vector2 m_move;
+    public float phi;
+    public float theta;
+    public float distance = 4.0f;
 
-    public float distance;
+    public float rotateSpeed = 30;
 
-    public Transform target;
+	// Use this for initialization
+	void Start () {
+        
+    }
+	
+	// Update is called once per frame
+	void Update () {
+        float x = distance * Mathf.Sin(Mathf.Deg2Rad * theta) * Mathf.Cos(Mathf.Deg2Rad * phi);
+        float z = distance * Mathf.Sin(Mathf.Deg2Rad * theta) * Mathf.Sin(Mathf.Deg2Rad * phi);
+        float y = distance * Mathf.Cos(Mathf.Deg2Rad * theta);
 
-    // Update is called once per frame
-    void Update () {
-        pitch += m_move.x;
-        yaw += m_move.y;
+        this.transform.position = new Vector3(x, y, z) + Target.transform.position;
 
-        float x = distance * Mathf.Sin(Mathf.Deg2Rad * pitch) * Mathf.Cos(Mathf.Deg2Rad * yaw);
-        float z = distance * Mathf.Sin(Mathf.Deg2Rad * pitch) * Mathf.Sin(Mathf.Deg2Rad * yaw);
-        float y = distance * Mathf.Cos(Mathf.Deg2Rad * pitch);
-
-        this.transform.position = new Vector3(x, y, z) + target.position;
-        this.transform.LookAt(target);
-	}
-
-    public void SetVelocity(float pitch, float yaw)
-    {
-        m_move.Set(yaw, pitch);
+        this.transform.LookAt(Target.transform);
     }
 
-    public void Zoom(float amt)
+    public void RotateBy(float theta, float phi)
+    {
+        this.phi += phi*rotateSpeed;
+        this.theta += theta*rotateSpeed;
+    }
+
+    public void ZoomBy(float amt)
     {
         distance += amt;
     }
