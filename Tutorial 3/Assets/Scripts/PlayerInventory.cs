@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerInventory : MonoBehaviour {
-    public Dictionary<string, int> resource_count_map;
+    private Dictionary<string, int> resource_count_map;
 
-    void Start()
+    private void Start()
     {
         resource_count_map = new Dictionary<string, int>();
     }
 
+    // Check if we're able to spawn the block given
     public bool CanSpawn(Block block)
     {
         return resource_count_map.ContainsKey(block.resource_id);
@@ -21,19 +22,21 @@ public class PlayerInventory : MonoBehaviour {
         if (!resource_count_map.ContainsKey(id)) resource_count_map[id] = 0;
 
         resource_count_map[id]++;
+
         LogResourceCountMap();
     }
 
-    public void OnResourceSpawn(Block block)
+    public void OnBlockSpawn(Block block)
     {
         if(!CanSpawn(block))
         {
-            Debug.Log("OnBlockSpawn called when unable to spawn block");
+            Debug.Log("OnBlockSpawn called when unable to spawn block (not enough resources!)");
             return;
         }
 
         resource_count_map[block.resource_id]--;
         if (resource_count_map[block.resource_id] == 0) resource_count_map.Remove(block.resource_id);
+
         LogResourceCountMap();
     }
 

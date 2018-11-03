@@ -6,18 +6,17 @@ using UnityEngine;
 public class ResourcePickup : MonoBehaviour {
     PlayerInventory player_inventory;
 
-	void Start () {
+    private void Start()
+    {
         player_inventory = GetComponent<PlayerInventory>();
-	}
+    }
 
     public void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Resource") OnResourceHit(other.GetComponent<Resource>());
-    }
-
-    public void OnResourceHit(Resource resource)
-    {
-        player_inventory.OnResourcePickUp(resource);
-        GameObject.Destroy(resource.gameObject);
+        if(other.tag == "Resource")
+        {
+            player_inventory.OnResourcePickUp(other.GetComponent<Resource>());
+            GameObject.Destroy(other.gameObject);
+        }
     }
 }
