@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: b390d498b0e127a4aad7f2650769417d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f0100008001000081010000820100008301000084010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 69d0d437b798021590205f6997398e52
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -48.836494, y: 21.759287, z: 35.38287}
+      lookAt: {x: -38.90382, y: 15.292169, z: 25.302307}
+      up: {x: 0.29171982, y: 0.9095307, z: -0.2960632}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brown Cliff
+    100002: Brown Cliff Bottom
+    100004: Brown Cliff Bottom Corner
+    100006: Brown Cliff Bottom Corner Green Top
+    100008: Brown Cliff Bottom Green Top
+    100010: Brown Cliff Corner
+    100012: Brown Cliff Corner Green Top
+    100014: Brown Cliff End
+    100016: Brown Cliff End Green Top
+    100018: Brown Cliff Green Top
+    100020: Brown Cliff Top
+    100022: Brown Cliff Top Corner
+    100024: Brown Waterfall
+    100026: Brown Waterfall Top
+    100028: Campfire
+    100030: Fallen Trunk
+    100032: Flower Red
+    100034: Flower Tall Red
+    100036: Flower Tall Yellow
+    100038: Flower Tall Yellow 1
+    100040: Flower Yellow
+    100042: Flower Yellow 1
+    100044: Grass
+    100046: Grey Cliff
+    100048: Grey Cliff Bottom
+    100050: Grey Cliff Bottom Corner
+    100052: Grey Cliff Bottom Corner Green Top
+    100054: Grey Cliff Bottom Green Top
+    100056: Grey Cliff Corner
+    100058: Grey Cliff Corner Green Top
+    100060: Grey Cliff End
+    100062: Grey Cliff End Green Top
+    100064: Grey Cliff Green Top
+    100066: Grey Cliff Top
+    100068: Grey Cliff Top Corner
+    100070: Grey Waterfall
+    100072: Grey Waterfall Top
+    100074: Group 147
+    100076: Group 149
+    100078: Group 151
+    100080: Group 153
+    100082: Group 155
+    100084: Group 157
+    100086: Group 159
+    100088: Group 161
+    100090: Group 163
+    100092: Group 167
+    100094: Group 169
+    100096: Group 171
+    100098: Group 175
+    100100: Group 177
+    100102: Group 181
+    100104: Group 185
+    100106: Group 189
+    100108: Group 193
+    100110: Group 197
+    100112: Group 198
+    100114: Group 200
+    100116: Group 202
+    100118: Group 216
+    100120: Group 218
+    100122: Group 220
+    100124: Group 222
+    100126: Group 224
+    100128: Group 226
+    100130: Group 228
+    100132: Group 230
+    100134: Group 232
+    100136: Group 234
+    100138: Group 236
+    100140: Group 238
+    100142: Group 240
+    100144: Group 242
+    100146: Group 244
+    100148: Group 246
+    100150: Group 248
+    100152: Group 250
+    100154: Group 252
+    100156: Group 254
+    100158: Group 256
+    100160: Group 258
+    100162: Group 260
+    100164: Group 262
+    100166: Group 264
+    100168: Group 265
+    100170: Group 267
+    100172: Group 269
+    100174: Group 270
+    100176: Group 272
+    100178: Group 274
+    100180: Group 275
+    100182: Group 277
+    100184: Group 279
+    100186: Group 281
+    100188: Group 283
+    100190: Group 285
+    100192: Group 287
+    100194: Group 289
+    100196: Group 291
+    100198: Group 293
+    100200: Group 295
+    100202: Group 297
+    100204: Group 299
+    100206: Group 301
+    100208: Group 303
+    100210: Group 305
+    100212: Group 307
+    100214: Group 309
+    100216: Group 311
+    100218: Group 313
+    100220: Group 315
+    100222: Group 317
+    100224: Group 319
+    100226: Group 321
+    100228: Group 325
+    100230: Group 327
+    100232: Group 329
+    100234: Group 331
+    100236: Group 333
+    100238: Group 335
+    100240: Group 337
+    100242: Group 343
+    100244: Group 345
+    100246: Group 347
+    100248: Group 349
+    100250: Group 351
+    100252: Group 353
+    100254: Group 355
+    100256: Group 357
+    100258: Group 359
+    100260: Group 361
+    100262: Group 363
+    100264: Group 365
+    100266: Group 367
+    100268: Group 369
+    100270: Group 371
+    100272: Group 373
+    100274: Group 375
+    100276: Group 385
+    100278: Group 387
+    100280: Hanging Moss
+    100282: Large Oak Dark
+    100284: Large Oak Dark 1
+    100286: Large Oak Dark 2
+    100288: Large Oak Dark 3
+    100290: Large Oak Fall
+    100292: Large Oak Green
+    100294: Mushroom Brown
+    100296: Mushroom Red
+    100298: Mushroom Tall
+    100300: //RootNode
+    100302: Oak Dark
+    100304: Oak Dark 1
+    100306: Oak Dark 2
+    100308: Oak Dark 3
+    100310: Oak Fall
+    100312: Oak Green
+    100314: Plant 1
+    100316: Plant 2
+    100318: Plant 3
+    100320: Plate Grass
+    100322: Plate Grass 1
+    100324: Plate Grass 2
+    100326: Plate Grass 3
+    100328: Plate Grass 4
+    100330: Plate Grass Dirt
+    100332: Plate River
+    100334: Plate River Corner
+    100336: Plate River Corner Dirt
+    100338: Plate River Dirt
+    100340: Plate River Dirt 1
+    100342: Plate River Dirt 2
+    100344: Plate River Dirt 3
+    100346: Plate River Dirt 4
+    100348: Plate River Dirt 5
+    100350: Plate River Dirt 6
+    100352: Rock 1
+    100354: Rock 2
+    100356: Rock 3
+    100358: Rock 4
+    100360: Rock 5
+    100362: Rock 6
+    100364: Tall Rock 1
+    100366: Tall Rock 1 1
+    100368: Tall Rock 2
+    100370: Tall Rock 2 1
+    100372: Tall Rock 3
+    100374: Tall Rock 3 1
+    100376: Tent
+    100378: Tent Poles
+    100380: Tree
+    100382: Tree 1
+    100384: Trunk
+    100386: Trunk 1
+    100388: Trunk Alt
+    100390: Trunk Alt 1
+    100392: Water lily
+    400000: Brown Cliff
+    400002: Brown Cliff Bottom
+    400004: Brown Cliff Bottom Corner
+    400006: Brown Cliff Bottom Corner Green Top
+    400008: Brown Cliff Bottom Green Top
+    400010: Brown Cliff Corner
+    400012: Brown Cliff Corner Green Top
+    400014: Brown Cliff End
+    400016: Brown Cliff End Green Top
+    400018: Brown Cliff Green Top
+    400020: Brown Cliff Top
+    400022: Brown Cliff Top Corner
+    400024: Brown Waterfall
+    400026: Brown Waterfall Top
+    400028: Campfire
+    400030: Fallen Trunk
+    400032: Flower Red
+    400034: Flower Tall Red
+    400036: Flower Tall Yellow
+    400038: Flower Tall Yellow 1
+    400040: Flower Yellow
+    400042: Flower Yellow 1
+    400044: Grass
+    400046: Grey Cliff
+    400048: Grey Cliff Bottom
+    400050: Grey Cliff Bottom Corner
+    400052: Grey Cliff Bottom Corner Green Top
+    400054: Grey Cliff Bottom Green Top
+    400056: Grey Cliff Corner
+    400058: Grey Cliff Corner Green Top
+    400060: Grey Cliff End
+    400062: Grey Cliff End Green Top
+    400064: Grey Cliff Green Top
+    400066: Grey Cliff Top
+    400068: Grey Cliff Top Corner
+    400070: Grey Waterfall
+    400072: Grey Waterfall Top
+    400074: Group 147
+    400076: Group 149
+    400078: Group 151
+    400080: Group 153
+    400082: Group 155
+    400084: Group 157
+    400086: Group 159
+    400088: Group 161
+    400090: Group 163
+    400092: Group 167
+    400094: Group 169
+    400096: Group 171
+    400098: Group 175
+    400100: Group 177
+    400102: Group 181
+    400104: Group 185
+    400106: Group 189
+    400108: Group 193
+    400110: Group 197
+    400112: Group 198
+    400114: Group 200
+    400116: Group 202
+    400118: Group 216
+    400120: Group 218
+    400122: Group 220
+    400124: Group 222
+    400126: Group 224
+    400128: Group 226
+    400130: Group 228
+    400132: Group 230
+    400134: Group 232
+    400136: Group 234
+    400138: Group 236
+    400140: Group 238
+    400142: Group 240
+    400144: Group 242
+    400146: Group 244
+    400148: Group 246
+    400150: Group 248
+    400152: Group 250
+    400154: Group 252
+    400156: Group 254
+    400158: Group 256
+    400160: Group 258
+    400162: Group 260
+    400164: Group 262
+    400166: Group 264
+    400168: Group 265
+    400170: Group 267
+    400172: Group 269
+    400174: Group 270
+    400176: Group 272
+    400178: Group 274
+    400180: Group 275
+    400182: Group 277
+    400184: Group 279
+    400186: Group 281
+    400188: Group 283
+    400190: Group 285
+    400192: Group 287
+    400194: Group 289
+    400196: Group 291
+    400198: Group 293
+    400200: Group 295
+    400202: Group 297
+    400204: Group 299
+    400206: Group 301
+    400208: Group 303
+    400210: Group 305
+    400212: Group 307
+    400214: Group 309
+    400216: Group 311
+    400218: Group 313
+    400220: Group 315
+    400222: Group 317
+    400224: Group 319
+    400226: Group 321
+    400228: Group 325
+    400230: Group 327
+    400232: Group 329
+    400234: Group 331
+    400236: Group 333
+    400238: Group 335
+    400240: Group 337
+    400242: Group 343
+    400244: Group 345
+    400246: Group 347
+    400248: Group 349
+    400250: Group 351
+    400252: Group 353
+    400254: Group 355
+    400256: Group 357
+    400258: Group 359
+    400260: Group 361
+    400262: Group 363
+    400264: Group 365
+    400266: Group 367
+    400268: Group 369
+    400270: Group 371
+    400272: Group 373
+    400274: Group 375
+    400276: Group 385
+    400278: Group 387
+    400280: Hanging Moss
+    400282: Large Oak Dark
+    400284: Large Oak Dark 1
+    400286: Large Oak Dark 2
+    400288: Large Oak Dark 3
+    400290: Large Oak Fall
+    400292: Large Oak Green
+    400294: Mushroom Brown
+    400296: Mushroom Red
+    400298: Mushroom Tall
+    400300: //RootNode
+    400302: Oak Dark
+    400304: Oak Dark 1
+    400306: Oak Dark 2
+    400308: Oak Dark 3
+    400310: Oak Fall
+    400312: Oak Green
+    400314: Plant 1
+    400316: Plant 2
+    400318: Plant 3
+    400320: Plate Grass
+    400322: Plate Grass 1
+    400324: Plate Grass 2
+    400326: Plate Grass 3
+    400328: Plate Grass 4
+    400330: Plate Grass Dirt
+    400332: Plate River
+    400334: Plate River Corner
+    400336: Plate River Corner Dirt
+    400338: Plate River Dirt
+    400340: Plate River Dirt 1
+    400342: Plate River Dirt 2
+    400344: Plate River Dirt 3
+    400346: Plate River Dirt 4
+    400348: Plate River Dirt 5
+    400350: Plate River Dirt 6
+    400352: Rock 1
+    400354: Rock 2
+    400356: Rock 3
+    400358: Rock 4
+    400360: Rock 5
+    400362: Rock 6
+    400364: Tall Rock 1
+    400366: Tall Rock 1 1
+    400368: Tall Rock 2
+    400370: Tall Rock 2 1
+    400372: Tall Rock 3
+    400374: Tall Rock 3 1
+    400376: Tent
+    400378: Tent Poles
+    400380: Tree
+    400382: Tree 1
+    400384: Trunk
+    400386: Trunk 1
+    400388: Trunk Alt
+    400390: Trunk Alt 1
+    400392: Water lily
+    2100000: _defaultMat
+    2100002: Leafs
+    2100004: Wood
+    2100006: Light Wood
+    2100008: Green leafs
+    2100010: Mushroom Red
+    2100012: Stone
+    2100014: Water
+    2100016: Fall Leafs
+    2100018: Green Roof
+    2300000: Brown Cliff
+    2300002: Brown Cliff Bottom
+    2300004: Brown Cliff Bottom Corner
+    2300006: Brown Cliff Bottom Corner Green Top
+    2300008: Brown Cliff Bottom Green Top
+    2300010: Brown Cliff Corner
+    2300012: Brown Cliff Corner Green Top
+    2300014: Brown Cliff End
+    2300016: Brown Cliff End Green Top
+    2300018: Brown Cliff Green Top
+    2300020: Brown Cliff Top
+    2300022: Brown Cliff Top Corner
+    2300024: Brown Waterfall
+    2300026: Brown Waterfall Top
+    2300028: Campfire
+    2300030: Fallen Trunk
+    2300032: Flower Red
+    2300034: Flower Tall Red
+    2300036: Flower Tall Yellow
+    2300038: Flower Tall Yellow 1
+    2300040: Flower Yellow
+    2300042: Flower Yellow 1
+    2300044: Grass
+    2300046: Grey Cliff
+    2300048: Grey Cliff Bottom
+    2300050: Grey Cliff Bottom Corner
+    2300052: Grey Cliff Bottom Corner Green Top
+    2300054: Grey Cliff Bottom Green Top
+    2300056: Grey Cliff Corner
+    2300058: Grey Cliff Corner Green Top
+    2300060: Grey Cliff End
+    2300062: Grey Cliff End Green Top
+    2300064: Grey Cliff Green Top
+    2300066: Grey Cliff Top
+    2300068: Grey Cliff Top Corner
+    2300070: Grey Waterfall
+    2300072: Grey Waterfall Top
+    2300074: Group 147
+    2300076: Group 149
+    2300078: Group 151
+    2300080: Group 153
+    2300082: Group 155
+    2300084: Group 157
+    2300086: Group 159
+    2300088: Group 161
+    2300090: Group 163
+    2300092: Group 167
+    2300094: Group 169
+    2300096: Group 171
+    2300098: Group 175
+    2300100: Group 177
+    2300102: Group 181
+    2300104: Group 185
+    2300106: Group 189
+    2300108: Group 193
+    2300110: Group 198
+    2300112: Group 200
+    2300114: Group 202
+    2300116: Group 216
+    2300118: Group 218
+    2300120: Group 220
+    2300122: Group 222
+    2300124: Group 224
+    2300126: Group 226
+    2300128: Group 228
+    2300130: Group 230
+    2300132: Group 232
+    2300134: Group 234
+    2300136: Group 236
+    2300138: Group 238
+    2300140: Group 240
+    2300142: Group 242
+    2300144: Group 244
+    2300146: Group 246
+    2300148: Group 248
+    2300150: Group 250
+    2300152: Group 252
+    2300154: Group 254
+    2300156: Group 256
+    2300158: Group 258
+    2300160: Group 260
+    2300162: Group 262
+    2300164: Group 265
+    2300166: Group 267
+    2300168: Group 270
+    2300170: Group 272
+    2300172: Group 275
+    2300174: Group 277
+    2300176: Group 279
+    2300178: Group 281
+    2300180: Group 283
+    2300182: Group 285
+    2300184: Group 287
+    2300186: Group 289
+    2300188: Group 291
+    2300190: Group 293
+    2300192: Group 295
+    2300194: Group 297
+    2300196: Group 299
+    2300198: Group 301
+    2300200: Group 303
+    2300202: Group 305
+    2300204: Group 307
+    2300206: Group 309
+    2300208: Group 311
+    2300210: Group 313
+    2300212: Group 315
+    2300214: Group 317
+    2300216: Group 319
+    2300218: Group 321
+    2300220: Group 325
+    2300222: Group 327
+    2300224: Group 329
+    2300226: Group 331
+    2300228: Group 333
+    2300230: Group 335
+    2300232: Group 337
+    2300234: Group 343
+    2300236: Group 345
+    2300238: Group 347
+    2300240: Group 349
+    2300242: Group 351
+    2300244: Group 353
+    2300246: Group 355
+    2300248: Group 357
+    2300250: Group 359
+    2300252: Group 361
+    2300254: Group 363
+    2300256: Group 365
+    2300258: Group 367
+    2300260: Group 369
+    2300262: Group 371
+    2300264: Group 373
+    2300266: Group 375
+    2300268: Group 385
+    2300270: Group 387
+    2300272: Hanging Moss
+    2300274: Large Oak Dark
+    2300276: Large Oak Dark 1
+    2300278: Large Oak Dark 2
+    2300280: Large Oak Dark 3
+    2300282: Large Oak Fall
+    2300284: Large Oak Green
+    2300286: Mushroom Brown
+    2300288: Mushroom Red
+    2300290: Mushroom Tall
+    2300292: Oak Dark
+    2300294: Oak Dark 1
+    2300296: Oak Dark 2
+    2300298: Oak Dark 3
+    2300300: Oak Fall
+    2300302: Oak Green
+    2300304: Plant 1
+    2300306: Plant 2
+    2300308: Plant 3
+    2300310: Plate Grass
+    2300312: Plate Grass 1
+    2300314: Plate Grass 2
+    2300316: Plate Grass 3
+    2300318: Plate Grass 4
+    2300320: Plate Grass Dirt
+    2300322: Plate River
+    2300324: Plate River Corner
+    2300326: Plate River Corner Dirt
+    2300328: Plate River Dirt
+    2300330: Plate River Dirt 1
+    2300332: Plate River Dirt 2
+    2300334: Plate River Dirt 3
+    2300336: Plate River Dirt 4
+    2300338: Plate River Dirt 5
+    2300340: Plate River Dirt 6
+    2300342: Rock 1
+    2300344: Rock 2
+    2300346: Rock 3
+    2300348: Rock 4
+    2300350: Rock 5
+    2300352: Rock 6
+    2300354: Tall Rock 1
+    2300356: Tall Rock 1 1
+    2300358: Tall Rock 2
+    2300360: Tall Rock 2 1
+    2300362: Tall Rock 3
+    2300364: Tall Rock 3 1
+    2300366: Tent
+    2300368: Tent Poles
+    2300370: Tree
+    2300372: Tree 1
+    2300374: Trunk
+    2300376: Trunk 1
+    2300378: Trunk Alt
+    2300380: Trunk Alt 1
+    2300382: Water lily
+    3300000: Brown Cliff
+    3300002: Brown Cliff Bottom
+    3300004: Brown Cliff Bottom Corner
+    3300006: Brown Cliff Bottom Corner Green Top
+    3300008: Brown Cliff Bottom Green Top
+    3300010: Brown Cliff Corner
+    3300012: Brown Cliff Corner Green Top
+    3300014: Brown Cliff End
+    3300016: Brown Cliff End Green Top
+    3300018: Brown Cliff Green Top
+    3300020: Brown Cliff Top
+    3300022: Brown Cliff Top Corner
+    3300024: Brown Waterfall
+    3300026: Brown Waterfall Top
+    3300028: Campfire
+    3300030: Fallen Trunk
+    3300032: Flower Red
+    3300034: Flower Tall Red
+    3300036: Flower Tall Yellow
+    3300038: Flower Tall Yellow 1
+    3300040: Flower Yellow
+    3300042: Flower Yellow 1
+    3300044: Grass
+    3300046: Grey Cliff
+    3300048: Grey Cliff Bottom
+    3300050: Grey Cliff Bottom Corner
+    3300052: Grey Cliff Bottom Corner Green Top
+    3300054: Grey Cliff Bottom Green Top
+    3300056: Grey Cliff Corner
+    3300058: Grey Cliff Corner Green Top
+    3300060: Grey Cliff End
+    3300062: Grey Cliff End Green Top
+    3300064: Grey Cliff Green Top
+    3300066: Grey Cliff Top
+    3300068: Grey Cliff Top Corner
+    3300070: Grey Waterfall
+    3300072: Grey Waterfall Top
+    3300074: Group 147
+    3300076: Group 149
+    3300078: Group 151
+    3300080: Group 153
+    3300082: Group 155
+    3300084: Group 157
+    3300086: Group 159
+    3300088: Group 161
+    3300090: Group 163
+    3300092: Group 167
+    3300094: Group 169
+    3300096: Group 171
+    3300098: Group 175
+    3300100: Group 177
+    3300102: Group 181
+    3300104: Group 185
+    3300106: Group 189
+    3300108: Group 193
+    3300110: Group 198
+    3300112: Group 200
+    3300114: Group 202
+    3300116: Group 216
+    3300118: Group 218
+    3300120: Group 220
+    3300122: Group 222
+    3300124: Group 224
+    3300126: Group 226
+    3300128: Group 228
+    3300130: Group 230
+    3300132: Group 232
+    3300134: Group 234
+    3300136: Group 236
+    3300138: Group 238
+    3300140: Group 240
+    3300142: Group 242
+    3300144: Group 244
+    3300146: Group 246
+    3300148: Group 248
+    3300150: Group 250
+    3300152: Group 252
+    3300154: Group 254
+    3300156: Group 256
+    3300158: Group 258
+    3300160: Group 260
+    3300162: Group 262
+    3300164: Group 265
+    3300166: Group 267
+    3300168: Group 270
+    3300170: Group 272
+    3300172: Group 275
+    3300174: Group 277
+    3300176: Group 279
+    3300178: Group 281
+    3300180: Group 283
+    3300182: Group 285
+    3300184: Group 287
+    3300186: Group 289
+    3300188: Group 291
+    3300190: Group 293
+    3300192: Group 295
+    3300194: Group 297
+    3300196: Group 299
+    3300198: Group 301
+    3300200: Group 303
+    3300202: Group 305
+    3300204: Group 307
+    3300206: Group 309
+    3300208: Group 311
+    3300210: Group 313
+    3300212: Group 315
+    3300214: Group 317
+    3300216: Group 319
+    3300218: Group 321
+    3300220: Group 325
+    3300222: Group 327
+    3300224: Group 329
+    3300226: Group 331
+    3300228: Group 333
+    3300230: Group 335
+    3300232: Group 337
+    3300234: Group 343
+    3300236: Group 345
+    3300238: Group 347
+    3300240: Group 349
+    3300242: Group 351
+    3300244: Group 353
+    3300246: Group 355
+    3300248: Group 357
+    3300250: Group 359
+    3300252: Group 361
+    3300254: Group 363
+    3300256: Group 365
+    3300258: Group 367
+    3300260: Group 369
+    3300262: Group 371
+    3300264: Group 373
+    3300266: Group 375
+    3300268: Group 385
+    3300270: Group 387
+    3300272: Hanging Moss
+    3300274: Large Oak Dark
+    3300276: Large Oak Dark 1
+    3300278: Large Oak Dark 2
+    3300280: Large Oak Dark 3
+    3300282: Large Oak Fall
+    3300284: Large Oak Green
+    3300286: Mushroom Brown
+    3300288: Mushroom Red
+    3300290: Mushroom Tall
+    3300292: Oak Dark
+    3300294: Oak Dark 1
+    3300296: Oak Dark 2
+    3300298: Oak Dark 3
+    3300300: Oak Fall
+    3300302: Oak Green
+    3300304: Plant 1
+    3300306: Plant 2
+    3300308: Plant 3
+    3300310: Plate Grass
+    3300312: Plate Grass 1
+    3300314: Plate Grass 2
+    3300316: Plate Grass 3
+    3300318: Plate Grass 4
+    3300320: Plate Grass Dirt
+    3300322: Plate River
+    3300324: Plate River Corner
+    3300326: Plate River Corner Dirt
+    3300328: Plate River Dirt
+    3300330: Plate River Dirt 1
+    3300332: Plate River Dirt 2
+    3300334: Plate River Dirt 3
+    3300336: Plate River Dirt 4
+    3300338: Plate River Dirt 5
+    3300340: Plate River Dirt 6
+    3300342: Rock 1
+    3300344: Rock 2
+    3300346: Rock 3
+    3300348: Rock 4
+    3300350: Rock 5
+    3300352: Rock 6
+    3300354: Tall Rock 1
+    3300356: Tall Rock 1 1
+    3300358: Tall Rock 2
+    3300360: Tall Rock 2 1
+    3300362: Tall Rock 3
+    3300364: Tall Rock 3 1
+    3300366: Tent
+    3300368: Tent Poles
+    3300370: Tree
+    3300372: Tree 1
+    3300374: Trunk
+    3300376: Trunk 1
+    3300378: Trunk Alt
+    3300380: Trunk Alt 1
+    3300382: Water lily
+    4300000: Mesh Tree
+    4300002: Mesh Trunk
+    4300004: Mesh Trunk Alt
+    4300006: Mesh Water lily
+    4300008: Mesh Mushroom Red
+    4300010: Mesh Mushroom Brown
+    4300012: Mesh Mushroom Tall
+    4300014: Mesh Grass
+    4300016: Mesh Tree
+    4300018: Mesh Grey Cliff
+    4300020: Mesh Grey Cliff Bottom
+    4300022: Mesh Grey Cliff Corner
+    4300024: Mesh Grey Cliff Top Corner
+    4300026: Mesh Grey Cliff Top
+    4300028: Mesh Grey Cliff Bottom Corner
+    4300030: Mesh Grey Cliff End
+    4300032: Mesh Grey Cliff Green Top
+    4300034: Mesh Grey Cliff Bottom Green Top
+    4300036: Mesh Grey Cliff Bottom Corner Green Top
+    4300038: Mesh Grey Cliff End Green Top
+    4300040: Mesh Grey Cliff Corner Green Top
+    4300042: Mesh Oak Dark
+    4300044: Mesh Large Oak Dark
+    4300046: Mesh Plant 1
+    4300048: Mesh Plant 2
+    4300050: Mesh Grey Waterfall
+    4300052: Mesh Grey Waterfall Top
+    4300054: Mesh Rock 1
+    4300056: Mesh Rock 2
+    4300058: Mesh Rock 6
+    4300060: Mesh Rock 4
+    4300062: Mesh Rock 5
+    4300064: Mesh Tall Rock 2
+    4300066: Mesh Tall Rock 3
+    4300068: Mesh Rock 3
+    4300070: Mesh Tall Rock 1
+    4300072: Mesh Trunk
+    4300074: Mesh Trunk Alt
+    4300076: Mesh Fallen Trunk
+    4300078: Mesh Large Oak Green
+    4300080: Mesh Oak Fall
+    4300082: Mesh Oak Green
+    4300084: Mesh Large Oak Fall
+    4300086: Mesh Flower Tall Red
+    4300088: Mesh Flower Red
+    4300090: Mesh Flower Tall Yellow
+    4300092: Mesh Flower Yellow
+    4300094: Mesh Flower Yellow
+    4300096: Mesh Flower Tall Yellow
+    4300098: Mesh Hanging Moss
+    4300100: Mesh Tent Poles
+    4300102: Mesh Plant 3
+    4300104: Mesh Brown Waterfall Top
+    4300106: Mesh Brown Waterfall
+    4300108: Mesh Brown Cliff Top Corner
+    4300110: Mesh Brown Cliff Top
+    4300112: Mesh Brown Cliff Corner Green Top
+    4300114: Mesh Brown Cliff
+    4300116: Mesh Brown Cliff Bottom
+    4300118: Mesh Brown Cliff End
+    4300120: Mesh Brown Cliff Bottom Corner
+    4300122: Mesh Brown Cliff Corner
+    4300124: Mesh Brown Cliff Bottom Green Top
+    4300126: Mesh Brown Cliff Bottom Corner Green Top
+    4300128: Mesh Brown Cliff Green Top
+    4300130: Mesh Brown Cliff End Green Top
+    4300132: Mesh Tent
+    4300134: Mesh Plate River Corner Dirt
+    4300136: Mesh Plate River Corner
+    4300138: Mesh Plate Grass Dirt
+    4300140: Mesh Plate River Dirt
+    4300142: Mesh Plate Grass
+    4300144: Mesh Plate River
+    4300146: Mesh Group 147
+    4300148: Mesh Group 149
+    4300150: Mesh Group 151
+    4300152: Mesh Group 153
+    4300154: Mesh Group 155
+    4300156: Mesh Group 157
+    4300158: Mesh Group 159
+    4300160: Mesh Group 161
+    4300162: Mesh Group 163
+    4300164: Mesh Campfire
+    4300166: Mesh Group 167
+    4300168: Mesh Group 169
+    4300170: Mesh Group 171
+    4300172: Mesh Oak Dark
+    4300174: Mesh Group 175
+    4300176: Mesh Group 177
+    4300178: Mesh Large Oak Dark
+    4300180: Mesh Group 181
+    4300182: Mesh Oak Dark
+    4300184: Mesh Group 185
+    4300186: Mesh Large Oak Dark
+    4300188: Mesh Group 189
+    4300190: Mesh Large Oak Dark
+    4300192: Mesh Group 193
+    4300194: Mesh Oak Dark
+    4300196: Mesh Group 198
+    4300198: Mesh Group 200
+    4300200: Mesh Group 202
+    4300202: Mesh Plate River Dirt
+    4300204: Mesh Plate River Dirt
+    4300206: Mesh Plate River Dirt
+    4300208: Mesh Plate River Dirt
+    4300210: Mesh Plate River Dirt
+    4300212: Mesh Plate River Dirt
+    4300214: Mesh Group 216
+    4300216: Mesh Group 218
+    4300218: Mesh Group 220
+    4300220: Mesh Group 222
+    4300222: Mesh Group 224
+    4300224: Mesh Group 226
+    4300226: Mesh Group 228
+    4300228: Mesh Group 230
+    4300230: Mesh Group 232
+    4300232: Mesh Group 234
+    4300234: Mesh Group 236
+    4300236: Mesh Group 238
+    4300238: Mesh Group 240
+    4300240: Mesh Group 242
+    4300242: Mesh Group 244
+    4300244: Mesh Group 246
+    4300246: Mesh Group 248
+    4300248: Mesh Group 250
+    4300250: Mesh Group 252
+    4300252: Mesh Group 254
+    4300254: Mesh Group 256
+    4300256: Mesh Group 258
+    4300258: Mesh Group 260
+    4300260: Mesh Group 262
+    4300262: Mesh Group 265
+    4300264: Mesh Group 272
+    4300266: Mesh Group 279
+    4300268: Mesh Group 281
+    4300270: Mesh Group 283
+    4300272: Mesh Group 285
+    4300274: Mesh Group 287
+    4300276: Mesh Group 289
+    4300278: Mesh Group 291
+    4300280: Mesh Group 293
+    4300282: Mesh Group 295
+    4300284: Mesh Group 297
+    4300286: Mesh Group 299
+    4300288: Mesh Group 301
+    4300290: Mesh Group 303
+    4300292: Mesh Group 305
+    4300294: Mesh Group 307
+    4300296: Mesh Group 309
+    4300298: Mesh Group 311
+    4300300: Mesh Group 313
+    4300302: Mesh Group 315
+    4300304: Mesh Group 317
+    4300306: Mesh Group 319
+    4300308: Mesh Group 321
+    4300310: Mesh Tall Rock 2
+    4300312: Mesh Group 325
+    4300314: Mesh Group 327
+    4300316: Mesh Group 329
+    4300318: Mesh Group 331
+    4300320: Mesh Group 333
+    4300322: Mesh Group 335
+    4300324: Mesh Group 337
+    4300326: Mesh Tall Rock 3
+    4300328: Mesh Tall Rock 1
+    4300330: Mesh Group 343
+    4300332: Mesh Group 345
+    4300334: Mesh Group 347
+    4300336: Mesh Group 349
+    4300338: Mesh Group 351
+    4300340: Mesh Group 353
+    4300342: Mesh Group 355
+    4300344: Mesh Group 357
+    4300346: Mesh Group 359
+    4300348: Mesh Group 361
+    4300350: Mesh Group 363
+    4300352: Mesh Group 365
+    4300354: Mesh Group 367
+    4300356: Mesh Group 369
+    4300358: Mesh Group 371
+    4300360: Mesh Group 373
+    4300362: Mesh Group 375
+    4300364: Mesh Plate Grass
+    4300366: Mesh Plate Grass
+    4300368: Mesh Plate Grass
+    4300370: Mesh Plate Grass
+    4300372: Mesh Group 385
+    4300374: Mesh Group 387
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
